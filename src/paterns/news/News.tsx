@@ -1,6 +1,6 @@
 import React from 'react';
 
-export const News = function () {
+export const News = (props: any) : any => {
     return (
         <div>
             news

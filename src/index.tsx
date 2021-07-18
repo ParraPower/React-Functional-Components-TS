@@ -9,7 +9,7 @@ import "./web.config";
 // import MyImage from './assets/dog.jpg';
 // import './index.css';
 
-const App = () => {
+const App = () : any => {
   const props = {
     "test": 1
     }

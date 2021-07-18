@@ -1,6 +1,7 @@
 import React from 'react';
 
-export const Home = function (props) {
+
+export const Home = (props: any) : any => {
     console.log(props);
 
     return (
